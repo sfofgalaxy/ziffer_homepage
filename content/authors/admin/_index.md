@@ -73,5 +73,5 @@ email: 'sfofgalaxy@gmail.com'
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zifan(Ziffer) Peng is a Data Engineer at Shopee. He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology. His research interests include Software Engineer, Programming language and High Performance Compute.
 {style="text-align: justify;"}
