@@ -13,6 +13,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: experience
+  - id: education
     content:
       title: Education
       # Date format for experience
@@ -31,6 +32,7 @@ sections:
           location: Hong Kong, China
           date_start: '2021-09-01'
           date_end: '2022-06-15'
+          description: |2-
         - title: BEng in Software Engineer
           company: Zhejiang University
           company_url: 'https://www.zju.edu.cn/english/'
@@ -39,6 +41,7 @@ sections:
           date_start: '2017-09-01'
           date_end: '2021-06-30'
   - block: experience
+  - id: experience
     content:
       title: Experience
       # Date format for experience
