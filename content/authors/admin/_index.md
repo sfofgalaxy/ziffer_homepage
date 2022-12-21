@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zifan Peng
+title: Zifan Peng 彭子帆
 
 # Full name (for SEO)
 first_name: Ziffer
