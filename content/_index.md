@@ -14,6 +14,32 @@ sections:
       text:
   - block: experience
     content:
+      title: Education
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: MSc in Information Technology
+          company: The Hong Kong University of Science and Technology
+          company_url: 'https://hkust.edu.hk/'
+          company_logo: hkust
+          location: Hong Kong, China
+          date_start: '2021-09-01'
+          date_end: '2022-06-15'
+        - title: BEng in Software Engineer
+          company: Zhejiang University
+          company_url: 'https://www.zju.edu.cn/english/'
+          company_logo: zju
+          location: Hangzhou, China
+          date_start: '2017-09-01'
+          date_end: '2021-06-30'
+  - block: experience
+    content:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -36,20 +62,20 @@ sections:
 
               * Real-time data
               * Flink launcher
-        - title: MSc in Information Technology
-          company: The Hong Kong University of Science and Technology
-          company_url: 'https://hkust.edu.hk/'
-          company_logo: hkust
+        - title: Research Assistant
+          company: The Hang Seng University of Hong Kong
+          company_url: 'https://www.hsu.edu.hk/en/'
+          company_logo: hsu
           location: Hong Kong, China
-          date_start: '2021-09-01'
-          date_end: '2022-06-15'
-        - title: BEng in Software Engineer
-          company: Zhejiang University
-          company_url: 'https://www.zju.edu.cn/english/'
-          company_logo: zju
-          location: Hangzhou, China
-          date_start: '2017-09-01'
-          date_end: '2021-06-30'
+          date_start: '2022-01-01'
+          date_end: '2022-05-31'
+        - title: Java Software Engineer Intern
+          company: Alibaba Group
+          company_url: 'https://www.alibabagroup.com/'
+          company_logo: alibaba
+          location: Beijing, China
+          date_start: '2021-06-01'
+          date_end: '2021-08-30'
     design:
       columns: '2'
   - block: collection
