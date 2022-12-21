@@ -3,7 +3,7 @@
 title: Zifan Peng 彭子帆
 
 # Full name (for SEO)
-first_name: Ziffer
+first_name: Zifan
 last_name: Peng
 
 # Status emoji
@@ -73,5 +73,5 @@ email: 'sfofgalaxy@gmail.com'
 highlight_name: true
 ---
 
-Zifan(Ziffer) Peng is a Data Engineer at Shopee. He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology. His research interests include Software Engineer, Programming language and High Performance Compute.
+Zifan(Ziffer) Peng is a Data Engineer at Shopee. He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022. His research interests include Software Engineer, Programming language and High Performance Compute.
 {style="text-align: justify;"}
