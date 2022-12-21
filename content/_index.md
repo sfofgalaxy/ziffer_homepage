@@ -50,7 +50,6 @@ sections:
           location: Hangzhou, China
           date_start: '2017-09-01'
           date_end: '2021-06-30'
-          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: collection
