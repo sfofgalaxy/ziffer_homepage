@@ -33,6 +33,10 @@ sections:
           date_start: '2021-09-01'
           date_end: '2022-06-15'
           description: |2-
+              Responsibilities include:
+
+              * Real-time data
+              * Flink launcher
         - title: BEng in Software Engineer
           company: Zhejiang University
           company_url: 'https://www.zju.edu.cn/english/'
