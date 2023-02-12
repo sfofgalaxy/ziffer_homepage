@@ -105,7 +105,7 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: sfofgalaxy@gmail.com
+      email: sfofgalaxy[AT]gmail.com
       phone: 086 173 4201 7609
       address:
         street: 5200 North Lake Rd.
