@@ -80,6 +80,13 @@ sections:
           location: Beijing, China
           date_start: '2021-06-01'
           date_end: '2021-08-30'
+        - title: General Software Engineer Intern
+          company: Huawei
+          company_url: 'https://www.huawei.com/en/'
+          company_logo: huawei
+          location: Hangzhou, China
+          date_start: '2021-08-01'
+          date_end: '2020-11-03'
     design:
       columns: '2'
   - block: collection
@@ -108,12 +115,12 @@ sections:
       email: sfofgalaxy[AT]gmail.com
       phone: 086 173 4201 7609
       address:
-        street: 5200 North Lake Rd.
-        city: Merced
-        region: CA
-        postcode: '95343'
-        country: United States
-        country_code: US
+        street: 8 Tao Ching Rd.
+        city: Singapore
+        region: Singapore
+        postcode: '618724'
+        country: Singapore
+        country_code: SG
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
