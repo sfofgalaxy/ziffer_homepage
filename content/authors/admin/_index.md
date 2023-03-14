@@ -22,13 +22,13 @@ organizations:
     url: https://shopee.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include High Performance Compute, Software Engineer and Programming language.
+# bio: My research interests include High Performance Compute, Software Engineer and Programming language.
 
 # Interests to show in About widget
-interests:
-  - High Performance Compute
-  - Software Engineer
-  - Programming language
+# interests:
+#   - High Performance Compute
+#   - Software Engineer
+#   - Programming language
 
 # Education to show in About widget
 education:
