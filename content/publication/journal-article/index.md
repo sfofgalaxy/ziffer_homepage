@@ -1,7 +1,7 @@
 ---
 title: "Combating the COVID-19 Infodemic Using Prompt-Based Curriculum Learning"
 authors:
-- *Zifan Peng*
+- **Zifan Peng**
 - Mingchen Li
 - Yue Wang
 - George T. S. Ho
