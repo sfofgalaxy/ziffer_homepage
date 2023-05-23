@@ -94,7 +94,7 @@ sections:
     content:
       title: Publications
       text: |-
-       [Filter Publications](./publication/)
+#       [Filter Publications](./publication/)
       filters:
         folders:
           - publication
