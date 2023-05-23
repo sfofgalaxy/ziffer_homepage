@@ -93,7 +93,8 @@ sections:
     id: publications
     content:
       title: Publications
-      text: [filtering publications](./publication/).
+      text: |-
+        Quickly discover relevant content by [filtering publications](./publication/).
       filters:
         folders:
           - publication
