@@ -108,7 +108,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        If you have any question, please drop me a message here or send email to me.
       # Contact (add or remove contact options as necessary)
       email: sfofgalaxy[AT]gmail.com
       phone: 086 173 4201 7609
