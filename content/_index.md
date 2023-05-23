@@ -94,7 +94,7 @@ sections:
     content:
       title: Publications
       text: |-
-        Quickly discover relevant content by [filtering publications](./publication/).
+       [Filter Publications](./publication/)
       filters:
         folders:
           - publication
