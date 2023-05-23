@@ -1,10 +1,10 @@
 ---
 title: "Combating the COVID-19 Infodemic Using Prompt-Based Curriculum Learning"
 authors:
-- Zifan Peng
+- *Zifan Peng*
 - Mingchen Li
 - Yue Wang
-- George {T. S. Ho}
+- George T. S. Ho
 author_notes:
 - "Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Hong Kong SAR, China"
 - "Khoury College of Computer Sciences, Northeastern University, Boston, USA"
