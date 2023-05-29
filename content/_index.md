@@ -108,7 +108,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        If you have any question, please drop me a message here or send email to me.
+        If you have any question, please drop me a message!
       # Contact (add or remove contact options as necessary)
       email: sfofgalaxy@gmail.com
       phone: 086 173 4201 7609
