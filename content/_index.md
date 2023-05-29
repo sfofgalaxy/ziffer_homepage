@@ -110,7 +110,7 @@ sections:
       text: |-
         If you have any question, please drop me a message here or send email to me.
       # Contact (add or remove contact options as necessary)
-      email: sfofgalaxy[AT]gmail.com
+      email: sfofgalaxy@gmail.com
       phone: 086 173 4201 7609
       address:
         street: 8 Tao Ching Rd.
@@ -128,7 +128,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---
