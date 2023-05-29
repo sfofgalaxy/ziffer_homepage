@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Ziffer. Updated on 21 Dec. 2022'
+    notice: '© {year} Ziffer. Updated on {date}, {day} {month}. {year}'
     # license:
     #   enable: true
     #   allow_derivatives: false
