@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-06-01
 type: landing
 
 sections:
@@ -25,6 +25,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Ph.D. in Financial Technology
+          company: The Hong Kong University of Science and Technology (Guangzhou)
+          company_url: 'https://hkust-gz.edu.cn/'
+          company_logo: hkust
+          location: Guangzhou, China
+          date_start: '2023-09-01'
+          date_end: ''
         - title: MSc in Information Technology
           company: The Hong Kong University of Science and Technology
           company_url: 'https://hkust.edu.hk/'
@@ -60,7 +67,7 @@ sections:
           company_logo: shopee
           location: Singapore
           date_start: '2022-06-26'
-          date_end: ''
+          date_end: '2023-08-04'
           description: |2-
               Responsibilities include:
 
@@ -128,7 +135,7 @@ sections:
 #          id:
 #        netlify:
 #          # Enable CAPTCHA challenge to reduce spam?
-#          captcha: true
+#          captcha: false
     design:
       columns: '2'
 ---

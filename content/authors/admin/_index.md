@@ -25,17 +25,17 @@ organizations:
 # bio: My research interests include High Performance Compute, Software Engineer and Programming language.
 
 # Interests to show in About widget
-# interests:
-#   - High Performance Compute
-#   - Software Engineer
-#   - Programming language
+interests:
+ - DeFi
+ - Blockchain
+ - Software Engineer
 
 # Education to show in About widget
 education:
   courses:
-    # - course: PhD in Computer
-    #   institution: Stanford University
-    #   year: 2012
+    - course: PhD in Financial Technology
+      institution: The Hong Kong University of Science and Technology (Guangzhou)
+      year: 2023
     - course: MSc in Information Technology
       institution: The Hong Kong University of Science and Technology
       year: 2021
@@ -53,6 +53,9 @@ social:
     link: '/#contact'
     display:
       header: true
+  - icon: google-scholar
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=2M8-SOwAAAAJ&hl=zh-CN&authuser=1
   - icon: github
     icon_pack: fab
     link: https://github.com/sfofgalaxy
