@@ -33,13 +33,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Financial Technology
+    - course: Ph.D. Student in Financial Technology
       institution: The Hong Kong University of Science and Technology (Guangzhou)
       year: 2023
-    - course: MSc in Information Technology
+    - course: M.Sc. in Information Technology
       institution: The Hong Kong University of Science and Technology
       year: 2021
-    - course: BEng in Software Engineer
+    - course: B.Eng. in Software Engineer
       institution: Zhejiang University
       year: 2017
 
@@ -76,6 +76,6 @@ email: 'sfofgalaxy@gmail.com'
 highlight_name: true
 ---
 
-Zifan(Ziffer) Peng (彭子帆) is a Data Engineer at Shopee. He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022.
+Zifan(Ziffer) Peng (彭子帆) is an incoming Ph.D. Student in Financial Technology at HKUST(GZ). He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022.
 {style="text-align: justify;"}
  <!-- His research interests include Software Engineer, Programming language and High Performance Compute. -->
