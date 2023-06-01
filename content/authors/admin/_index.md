@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Data Engineer
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Shopee
-    url: https://shopee.com/
+  - name: The Hong Kong University of Science and Technology (Guangzhou)
+    url: https://hkust-gz.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include High Performance Compute, Software Engineer and Programming language.
