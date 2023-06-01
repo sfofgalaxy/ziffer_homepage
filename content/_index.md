@@ -25,13 +25,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Ph.D. in Financial Technology
-          company: The Hong Kong University of Science and Technology (Guangzhou)
-          company_url: 'https://hkust-gz.edu.cn/'
-          company_logo: hkust
-          location: Guangzhou, China
-          date_start: '2023-09-01'
-          date_end: ''
+#        - title: Ph.D. in Financial Technology
+#          company: The Hong Kong University of Science and Technology (Guangzhou)
+#          company_url: 'https://hkust-gz.edu.cn/'
+#          company_logo: hkust
+#          location: Guangzhou, China
+#          date_start: '2023-09-01'
+#          date_end: ''
         - title: MSc in Information Technology
           company: The Hong Kong University of Science and Technology
           company_url: 'https://hkust.edu.hk/'

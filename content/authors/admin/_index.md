@@ -18,8 +18,8 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Hong Kong University of Science and Technology (Guangzhou)
-    url: https://hkust-gz.edu.cn/
+#  - name: The Hong Kong University of Science and Technology (Guangzhou)
+#    url: https://hkust-gz.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include High Performance Compute, Software Engineer and Programming language.
@@ -33,9 +33,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. Student in Financial Technology
-      institution: The Hong Kong University of Science and Technology (Guangzhou)
-      year: 2023
+#    - course: Ph.D. Student in Financial Technology
+#      institution: The Hong Kong University of Science and Technology (Guangzhou)
+#      year: 2023
     - course: M.Sc. in Information Technology
       institution: The Hong Kong University of Science and Technology
       year: 2021
@@ -76,6 +76,8 @@ email: 'sfofgalaxy@gmail.com'
 highlight_name: true
 ---
 
-Zifan(Ziffer) Peng (彭子帆) is an incoming Ph.D. Student in Financial Technology at HKUST(GZ). He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022.
+Zifan(Ziffer) Peng (彭子帆) is an incoming Ph.D. Student 
+<!-- in Financial Technology at HKUST(GZ). -->
+He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022.
 {style="text-align: justify;"}
  <!-- His research interests include Software Engineer, Programming language and High Performance Compute. -->
