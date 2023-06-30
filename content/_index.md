@@ -25,13 +25,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-#        - title: Ph.D. in Financial Technology
-#          company: The Hong Kong University of Science and Technology (Guangzhou)
-#          company_url: 'https://hkust-gz.edu.cn/'
-#          company_logo: hkust
-#          location: Guangzhou, China
-#          date_start: '2023-09-01'
-#          date_end: ''
+        - title: Ph.D. in Financial Technology
+          company: The Hong Kong University of Science and Technology (Guangzhou)
+          company_url: 'https://hkust-gz.edu.cn/'
+          company_logo: hkust
+          location: Guangzhou, China
+          date_start: '2023-09-01'
+          date_end: ''
         - title: MSc in Information Technology
           company: The Hong Kong University of Science and Technology
           company_url: 'https://hkust.edu.hk/'
@@ -67,12 +67,12 @@ sections:
           company_logo: shopee
           location: Singapore
           date_start: '2022-06-26'
-          date_end: '2023-08-04'
+          date_end: '2023-07-04'
           description: |2-
               Responsibilities include:
 
-              * Real-time data
-              * Flink launcher
+              * Real-time fundamental data
+              * Real-time data service
         - title: Research Assistant
           company: The Hang Seng University of Hong Kong
           company_url: 'https://www.hsu.edu.hk/en/'
@@ -120,12 +120,12 @@ sections:
       email: sfofgalaxy@gmail.com
       phone: 086 173 4201 7609
       address:
-        street: 8 Tao Ching Rd.
-        city: Singapore
-        region: Singapore
-        postcode: '618724'
-        country: Singapore
-        country_code: SG
+        street: No.1 Du Xue Rd.
+        city: Guangzhou
+        region: Nansha District
+        postcode: '000000'
+        country: China
+        country_code: CN
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
