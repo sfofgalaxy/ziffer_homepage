@@ -92,7 +92,7 @@ sections:
           company_url: 'https://www.huawei.com/en/'
           company_logo: huawei
           location: Hangzhou, China
-          date_start: '2021-08-01'
+          date_start: '2020-08-01'
           date_end: '2020-11-03'
     design:
       columns: '2'
