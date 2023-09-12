@@ -76,7 +76,7 @@ email: 'sfofgalaxy@gmail.com'
 highlight_name: true
 ---
 
-Zifan(Ziffer) Peng (彭子帆) is an incoming Ph.D. Student in Financial Technology at HKUST(GZ).
+Zifan(Ziffer) Peng (彭子帆) is a first year Ph.D. Student in Financial Technology at HKUST(GZ).
 He obtained his Bachelor degree from Zhejiang University in 2021 and Master degree from The Hong Kong University of Science and Technology in 2022.
 {style="text-align: justify;"}
- <!-- His research interests include Software Engineer, Programming language and High Performance Compute. -->
+ His research interests include Blockchain, DeFi.
